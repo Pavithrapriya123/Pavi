@@ -1,0 +1,32 @@
+.imageDiv{
+    height: 450px;
+    background-color: yellow;
+    background-image: url(home.cmg.jpg);
+    background-size: 100%;
+    background-position: fixed;
+}
+.navbar{
+    background-color: red;
+    height: 80px;
+}
+.nb-box{
+    border: 2px solid black;
+    height: 95%;
+    width: 75%;
+    margin: auto;
+    text-align: right;
+    line-height: 75px;
+}
+.loginbutton {
+    background-color:transparent;
+    color: white;
+    border: none;
+}
+.createbutton {
+    background-color:transparent;
+    color: white ;
+    border: 1px solid white;
+    padding: 10px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
